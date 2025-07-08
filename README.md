@@ -1,4 +1,4 @@
-# React-Project1
+# React-CICD
 
 A modern, beginner-friendly React project designed to help you learn and build robust front-end applications. This repository serves as a template and reference implementation for using React, with best practices, clean architecture, and sample components.
 
